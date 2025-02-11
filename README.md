@@ -9,4 +9,3 @@ The goal was to transform the dataset into a complete hierarchical tree, ensurin
 To achieve this, I implemented a Depth-First Search (DFS) algorithm with backtracking. This recursive method allowed me to efficiently traverse and restructure the data, ensuring all possible hierarchical paths were extracted accurately.
 
 With this transformation, hierarchical data becomes significantly easier to manage, analyze, and visualize.
-For personal curiosity and for future reference, the Time Complexity here is O(N). Given N number of nodes, each node is visited once.
